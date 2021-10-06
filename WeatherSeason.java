@@ -1,0 +1,3 @@
+enum WeatherSeason{
+SUMMER,RAINY,WIINTER,SPRING;
+}
