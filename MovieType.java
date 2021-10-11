@@ -1,0 +1,3 @@
+enum MovieType{
+	MORNING,AFTERNOON,EVENING;
+}

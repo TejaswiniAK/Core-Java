@@ -1,0 +1,3 @@
+enum Type{
+	TIFFIN,MEAL,CHAT,DINNER;
+}
