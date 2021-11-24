@@ -1,6 +1,6 @@
 package com.xworkz.bridge.Hospital;
 
-public class Patient extends Hospital implements HospitalAdmitRule, HospitalDischargeRules {
+public class Patient implements HospitalAdmitRule, HospitalDischargeRules {
 
 	@Override
 	public String register() {
